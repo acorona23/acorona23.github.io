@@ -1,0 +1,64 @@
+
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color:  #75957c;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color:   #556d5a;
+  }
+  
+  .form {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+   th, td{
+    border:2px dotted black;
+    padding: 1.5em;
+    
+  }
+   th{
+    font-family: 'Poiret One', cursive;
+    font-size: 25px;
+    background-color: #F5CAC3;
+
+  }
+  td{
+    background-color: #a06a73;
+    color: whitesmoke;
+
+  }
+  .service-table, td{ 
+    font-style: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+  }
+  .service-table {
+    padding: 3em;
+  }
+  .flowering{
+    width: 100%;
+    height: auto;
+  }
+
+  .wholeform{
+padding: 2em;
+  }
+  .wholeform p{
+    font-size: 20px;
+  }
